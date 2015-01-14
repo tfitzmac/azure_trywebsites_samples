@@ -1,6 +1,2 @@
-bin/ 
-obj/
-*.user 
-*.suo 
-*.sln.ide 
-/packages 
+WebPagesMovies/bin/ 
+
